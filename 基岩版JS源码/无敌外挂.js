@@ -1,1 +1,9 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}(' 8 5(){\ne d="";\n7(e 9=0;9<2;9++)\nd+=4.6(4.b()*1);\nc d;\n}\n7(9=0;9<3;9++){a("f"+5()+"g，h")}\n\n',62,18,'0|10|5|99999|Math|RndNum|floor|for|function|i|print|random|return|rnd|var|你妈被我捅了|刀|气死你哈哈哈'.split('|'),0,{}));
+function RndNum() {
+     var rnd = "";
+     for (var i = 0; i < 5; i++)
+         rnd += Math.floor(Math.random() * 10);
+     return rnd;
+ }
+ for (i = 0; i < 99999; i++) {
+     print("你妈被我捅了" + RndNum() + "刀，气死你哈哈哈")
+ }
