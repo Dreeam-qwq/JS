@@ -14,7 +14,7 @@
 - JsFUCK
 - JJencode
 - AAencode
-- sojson 0%
+- sojson
 
 (以下是那些自以为是的"自创加密算法")
 - FYG测试加密
