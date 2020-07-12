@@ -9,7 +9,7 @@
 - 进制转码
 - 空字符混淆
 - 注释混淆
-- 无用代码混淆
+- 花代码混淆
 - JsFUCK
 - JJencode
 - AAencode
